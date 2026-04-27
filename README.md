@@ -20,7 +20,7 @@
   <br/>
     
   <p>
-      <a href="https://ieeexplore.ieee.org/document/10888153"><img alt='Paper' src="https://img.shields.io/badge/Paper-ACL-red.svg?style=flat-square"></a>
+      <a href="https://arxiv.org/abs/2604.21806"><img alt='Paper' src="https://img.shields.io/badge/Paper-ACL-red.svg?style=flat-square"></a>
     <!-- <a href="https://lee-zixu.github.io/TEMA.github.io/"><img alt='page' src="https://img.shields.io/badge/Project-Website-orange"></a> -->
     <a href="https://lee-zixu.github.io"><img src="https://img.shields.io/badge/Author Page-blue.svg" alt="Author Page"></a>
     <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white"></a>

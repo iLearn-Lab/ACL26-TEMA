@@ -219,7 +219,7 @@ Our implementation is based on the [LAVIS](https://github.com/chiangsonw/cala?ta
       <img src="/assets/logos/consep-logo.png" alt="ConeSep" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>ConeSep (CVPR'26)</b><br>
       <span style="font-size: 0.9em;">
-        <a href="" target="_blank">Paper</a> |
+        <a href="https://arxiv.org/abs/2604.20358" target="_blank">Paper</a> |
         <a href="https://lee-zixu.github.io/ConeSep.github.io/" target="_blank">Web</a> | 
         <a href="https://github.com/lee-zixu/ConeSep" target="_blank">Code</a> 
       </span>

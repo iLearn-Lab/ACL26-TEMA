@@ -1,7 +1,7 @@
 <a id="top"></a>
 <div align="center">
 <p align="center">
-  <img src="./assets/logos/tema-logo-w.png" alt="TEMA logo" width="250">
+  <img src="./assets/logos/tema-logo-w.png" alt="TEMA logo" width="350">
 </p>
   <h1 align="center">[ACL 2026] ⚓ TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval</h1>
   <div>
